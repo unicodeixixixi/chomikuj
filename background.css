@@ -2,7 +2,7 @@ body {
     background-color: #D3E93E;
 }
 
-div {
+.outlined-text {
     color: white; 
     font-size: 50px; 
     text-align: center; 
