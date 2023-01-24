@@ -1,2 +1,2 @@
-# chomikuj
-Strona na chomikuj
+# STRONA CHOMIKUJ
+Sio! Wstęp wzbroniony!
