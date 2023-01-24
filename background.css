@@ -1,3 +1,10 @@
 body {
     background-color: #D3E93E;
 }
+
+div {
+    color: white; 
+    font-size: 50px; 
+    text-align: center; 
+    outline: 2px solid black;
+}
