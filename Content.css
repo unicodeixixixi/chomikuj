@@ -1,0 +1,8 @@
+/* CSS for the rounded rectangle */
+.rounded-rectangle {
+    width: 100%; /* the rectangle should extend up to the last piece of content inside it*/
+    background-color: #fff6d2; /* set the color of the rectangle to #fff6d2 */
+    border-radius: 20px; /* add rounded corners to the rectangle */
+    padding: 20px; /* add padding to the rectangle */
+    margin-top: 20px; /* add margin to the top of the rectangle */
+}
