@@ -13,4 +13,5 @@
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     animation: fadeIn 1s ease-in;
     opacity: 0;
+    animation-fill-mode: forwards;
 }
